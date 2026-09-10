@@ -1,4 +1,4 @@
-<i> DEVELOPED BY J ICIKIWIR NIM.23367029</i>
+<i> DEVELOPED BY Jefri Muhamad Ridho NIM.23367029</i>
 
  #SisaBaik
 
